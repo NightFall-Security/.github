@@ -17,3 +17,5 @@ Hi, We are NightFall team ! Greatly interested by Windows internals, malwares & 
 
 - <a href="https://github.com/Yekuuun" target="blank">Yekuuun</a>
 - <a href="https://github.com/Arsium" target="blank">Arsium</a>
+- <a href="https://github.com/AshThrax" target="blank">AshTrax</a>
+
